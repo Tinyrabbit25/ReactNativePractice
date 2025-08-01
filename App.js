@@ -6,7 +6,6 @@ export default function App() {
   return (
     <View style={styles.container}>
 
-    <Image source={Logo} />
 
       <Text style ={styles.title}> 
         The Number 1 
